@@ -1,2 +1,3 @@
 env: default
 service: alpha
+message: alpha service default message
