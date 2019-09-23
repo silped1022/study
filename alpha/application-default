@@ -1,3 +1,0 @@
-env: application-default
-service: alpha
-message: alpha service defalut message
