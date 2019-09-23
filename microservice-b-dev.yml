@@ -1,3 +1,3 @@
 application:
   service: microservice-b
-  message: microservice-b service development message
+  message: microservice-b service development message 11111
